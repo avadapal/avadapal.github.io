@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.Tech . in Amrita School of Engineering, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.Tech. in Amrita School of Engineering, 2012
+* M.Sc. in Jekyll, GitHub University, 2015
+* Ph.D Indiana University, Bloomington, 2021
 
 Work experience
 ======
