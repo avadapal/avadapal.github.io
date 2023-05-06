@@ -1,7 +1,7 @@
 ---
 title: "You May Also Like... Privacy: Recommendation
 Systems Meet PIR"
-author: "Grigory Yaroslavtsev, Adithya Vadapalli"
+author: "Adithya Vadapalli, Fatanneh Bayatbabolghani, Ryan Henry"
 collection: publications
 permalink: /publication/2021-06-01-paper-title-number-2
 excerpt: 'enabled'
