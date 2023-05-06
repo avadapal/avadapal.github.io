@@ -1,5 +1,6 @@
 ---
 title: "Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation"
+author: "Adithya Vadapalli, Ryan Henry, Ian Goldberg"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-3
 #excerpt: 'Distributed ORAM'
