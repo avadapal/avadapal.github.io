@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Adithya Vadapalli"
 title_separator          : "-"
-name                     : &name "Adithya Vadaplli"
+name                     : &name "Adithya Vadapalli"
 description              : &description "personal description"
 url                      : https://avadapal.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
