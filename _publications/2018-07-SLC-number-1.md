@@ -9,4 +9,7 @@ paperurl: 'http://academicpages.github.io/files/paper1.pdf'
 citation: 'Your Name, You. (2018). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 The paper presents massively parallel algorithms for single linkage clustering
+
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
+
+Recommended citation: Your Name, You. (2022). "Paper Title Number 3." <i>IEEE Symposium on Security and Privacy (SP)</i>. 1(3). 
