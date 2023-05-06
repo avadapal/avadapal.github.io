@@ -8,7 +8,46 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at the University of Waterloo. My main areas of research is Privacy Enhancing Technologies. In September, 2023, I will be joining the Computer Science and Engineering Department of IIT Kanpur as an Assistant Professor.
+I am currently a Postdoctoral Fellow at the University of Waterloo. In September 2023, I will join the Computer Science and Engineering Department of IIT Kanpur as an Assistant Professor.
+
+Research
+-------------------------------------------------------------------------------
+In my research, I build data-leak-proof systems. In creating such data-leak-proof systems, I develop cryptographic primitives and tools that have applications beyond the particular system. Some of my past and planned research is:
+
+* Meta-Data Protection
+* Oblivious RAMs
+* Secure Multi-Party Computation
+* Secure Machine Learning
+
+<!-- Over the past few decades, Internet use has grown precipitously worldwide. 
+Today, over 4.7 billion people use social media; we go online for music, news, television, and movies and communicate with family and friends; essential day-to-day services like shopping, banking, and even health care are increasingly delivered virtually.
+Further, the COVID-19 pandemic has only accelerated these trends. 
+On the one hand, shifting to online services increases efficiency and convenience; on the other hand, it has created an ecosystem of surveillance capitalism riddled with severe privacy threats.
+One way of protecting data is building systems such that no unauthorized entity can access the data they are not supposed to.
+For instance, building firewalls is one option. 
+A more robust approach to tackling this problem is making systems that are _data-leak_ proof, i.e., even if an authorized entity gets access to the data they are not supposed to, they cannot make any sense of it. 
+My research is in creating systems for the _secure and private processing of data_, ensuring that data leaks cannot happen, even if an adversary penetrates a company's network.
+In my research, I build data-leak-proof systems. 
+In creating such data-leak-proof systems, I develop cryptographic primitives and tools that have applications beyond the particular system. 
+There are three broad approaches to building data-leak-proof systems:
+
+  * Secure hardware, wherein security guarantees derive from physical properties of hardware (e.g., Trusted Platform Modules, Intel SGX, and ARM TrustZone),
+  * Homomorphic cryptography, wherein security guarantees derive from mathematical hardness assumptions (e.g., factoring and discrete logarithms are hard), and
+  * Distributed trust, wherein security guarantees derive from trust in the honest behavior of some but not all community members (e.g., secret sharing and multi-party computation).
+
+
+The three aforementioned methods of achieving secure and private data processing have different pros and cons. 
+For instance, while homomorphic encryption performs the worst, trust is the most _reliable_. 
+Putting one's trust in secure hardware is less reliable, as some recent works have shown, but it leads to good performance.
+Distributed trust is a middle ground in settings where a trust assumption is reasonable. 
+In such settings, the protocols are secure so long as the parties involved obey the non-collusion assumption.
+These lead to what has been described as ``probably private'' protocols. 
+My work so far has relied on _distributed_ trust.
+In its broadest strokes, my research aims to develop tools that help users protect their privacy online without sacrificing the modern Internet's conveniences. 
+To date, my research contributions run the gamut from low-level cryptographic innovations through the design and analysis of complex systems all the way to heavily optimized implementations of primitives and systems alike.  -->
+
+
+
 
 <!-- This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
 
