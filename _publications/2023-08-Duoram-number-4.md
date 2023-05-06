@@ -2,6 +2,7 @@
 title: "Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation"
 collection: publications
 permalink: /publication/2023-10-01-paper-title-number-3
+excerpt: 'Distributed ORAM'
 date: 2023-10-01
 venue: '32nd USENIX Security Symposium'
 paperurl: 'http://avadapal.github.io/files/paper4-duoram.pdf'
