@@ -1,5 +1,5 @@
 ---
-title: "Sabre: Sender-Anonymous Messaging with Fast Audits"
+title: "Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
@@ -8,7 +8,7 @@ venue: 'Journal 1'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
 ---
-This paper presents Sabre, a family of sender-anonymous messaging protocols with instances supporting both Twitter-like anonymous bulletin boards and Secure Drop-like mailboxes. Both variants provide strong anonymity while potentially scaling to anonymity sets in the tens of millions and beyond. Sabre protocols inherit their basic structure from Riposte and Express while replacing those schemes’ linear-cost audit protocols with new logarithmic-cost ones. Sabre also incorporates a host of innovations that improve concrete performance by an order of magnitude or more under _ideal_ circumstances, while providing asymptotic speedups in the face of resource exhaustion-style DoS attacks.
+We design, analyze, and implement Duoram, a fast and bandwidth-efficient distributed ORAM protocol suitable for secure 2- and 3-party computation settings. Following Doerner and shelat's Floram construction (CCS 2017), Duoram leverages (2,2)-distributed point functions (DPFs) to represent PIR and PIR-writing queries compactly—but with a host of innovations that yield massive asymptotic reductions in communication cost and notable speedups in practice, even for modestly sized instances. Specifically, Duoram introduces a novel method for evaluating dot products of certain secret-shared vectors using communication that is only logarithmic in the vector length. As a result, for memories with  addressable locations, Duoram can perform a sequence of  arbitrarily interleaved reads and writes using just  words of communication, compared with Floram's  words. Moreover, most of this work can occur during a data-independent preprocessing phase, leaving just  words of online communication cost for the sequence—i.e., a constant online communication cost per memory access.
 
 [Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
