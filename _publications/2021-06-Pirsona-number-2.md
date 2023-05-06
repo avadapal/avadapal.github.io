@@ -4,7 +4,7 @@ Systems Meet PIR"
 author: "Grigory Yaroslavtsev, Adithya Vadapalli"
 collection: publications
 permalink: /publication/2021-06-01-paper-title-number-2
-#excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'enabled'
 date: 2021-06-01
 venue: 'Proceedings on Privacy Enhancing Technologies Symposium'
 paperurl: 'http://avadapal.github.io/files/paper4-duoram.pdf'
