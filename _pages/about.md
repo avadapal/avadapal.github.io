@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a Postdoctoral Fellow at the University of Waterloo. In September 2023, I will join the Computer Science and Engineering Department of IIT Kanpur as an Assistant Professor.
+I am an Assistant Professor at the Computer Science and Engineering Department of IIT Kanpur.
 
 Research
 -------------------------------------------------------------------------------
