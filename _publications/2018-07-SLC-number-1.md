@@ -6,8 +6,6 @@ permalink: /publication/2018-10-01-paper-title-number-1
 excerpt: ' '
 date: 2018-10-01
 venue: 'Internation Conference on Machine Learning'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: ' '
 ---
 The paper presents massively parallel algorithms for single linkage clustering
 
