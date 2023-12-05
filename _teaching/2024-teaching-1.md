@@ -14,7 +14,7 @@ The last couple of decades have seen a significant proliferation of the Internet
 
 Course Staff
 -----------------------
-
+- Instructor: Adithya Vadapalli
 
 
 Course Schedule
