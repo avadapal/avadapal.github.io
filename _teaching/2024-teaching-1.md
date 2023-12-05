@@ -42,7 +42,9 @@ Course Schedule
 
 Course Resources
 ------------------------
-
+There is no one textbook for this course. There are few useful books though. 
+- Modern Cryptography by Katz and Lindell
+- Pragmatic MPC by Evans, Koselnikov, and Rosulek
 
 Assignments
 ----------------------------
