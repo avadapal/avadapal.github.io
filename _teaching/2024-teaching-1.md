@@ -18,3 +18,13 @@ Course Schedule
 |----------|----------|----------|
 | 0 | January 8 | Why Privacy | TBD | TBD | TBD |
 
+
+Assignments
+----------------------------
+
+
+Grading
+-----------------------------
+
+
+
