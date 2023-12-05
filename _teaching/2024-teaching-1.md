@@ -39,6 +39,14 @@ Course Schedule
 | 3: ZKP   |           | Zk-Snarks          | TBD | TBD | TBD |
 | 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
 | 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
+| 4: ORAM  |           | Client-Server ORAM | TBD | TBD | TBD |
+| 4: ORAM  |           | Hierarchical ORAM  | TBD | TBD | TBD |
+| 4: ORAM  |           | Tree ORAM          | TBD | TBD | TBD |
+| 4: ORAM  |           | Path ORAM           | TBD | TBD | TBD |
+| 4: ORAM  |           | DORAM               | TBD | TBD | TBD |
+| 5: Application|      | Tor                 | TBD | TBD | TBD |
+| 5: Application|      | OTR                 | TBD | TBD | TBD |
+| 5: Application|      | Anonymous Messaging | TBD | TBD | TBD |
 
 
 Course Resources
