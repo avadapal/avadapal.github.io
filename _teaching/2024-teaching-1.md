@@ -25,6 +25,20 @@ Course Schedule
 | 0: Intro | January 8 | Why Privacy | TBD | TBD | TBD |
 | 0: Intro |           | Crypto Refresher | TBD | TBD | TBD | 
 | 1: PIR   |           |                  | TBD | TBD | TBD | 
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           |                  | TBD | TBD | TBD |
 
 Course Resources
 ------------------------
