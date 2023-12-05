@@ -21,10 +21,10 @@ Course Schedule
 ------------------------------
 
 | Module | Date | Topic | Compulosry Reading | Optional Reading | Lecture Material |
-|----------|----------|----------|
-| 0 | January 8 | Why Privacy | TBD | TBD | TBD |
-
-
+|----------|----------|----------|---------| ----------| --------|
+| 0: Intro | January 8 | Why Privacy | TBD | TBD | TBD |
+| 0: Intro |           | Crypto Refresher | TBD | TBD | TBD | 
+| 1: PIR   |           |                  | TBD | TBD | TBD | 
 
 Course Resources
 ------------------------
