@@ -1,9 +1,9 @@
 ---
-title: "Computer Security and Privacy"
+title: "Cryptographic Techniques for Privacy Preservation"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University of Waterloo, Computer Science"
+venue: "IIT Kanpur, Computer Science and Engineering"
 date: 2021-09-01
-location: "Waterloo, Canada"
+location: "Kanpur, Uttar Pradesh"
 ---
