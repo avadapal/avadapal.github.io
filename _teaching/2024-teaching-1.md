@@ -24,21 +24,21 @@ Course Schedule
 |----------|----------|----------|---------| ----------| --------|
 | 0: Intro | January 8 | Why Privacy | TBD | TBD | TBD |
 | 0: Intro |           | Crypto Refresher | TBD | TBD | TBD | 
-| 1: PIR   |           |                  | TBD | TBD | TBD | 
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
-| 1: PIR   |           |                  | TBD | TBD | TBD |
+| 1: PIR   |           | IT-PIR           | TBD | TBD | TBD | 
+| 1: PIR   |           | C-PIR            | TBD | TBD | TBD |
+| 1: PIR   |           | PIR using TEE    | TBD | TBD | TBD |
+| 1: PIR   |           | Distributed Point Functions| TBD | TBD | TBD |
+| 1: PIR   |           | PIR by keywords    | TBD | TBD | TBD |
+| 2: MPC   |           | Garbled Circuits   | TBD | TBD | TBD |
+| 2: MPC   |           | GMW                | TBD | TBD | TBD |
+| 2: MPC   |           | BGW                | TBD | TBD | TBD |
+| 2: MPC   |           | ABY                | TBD | TBD | TBD |
+| 2: MPC   |           | Server-Aided MPC   | TBD | TBD | TBD |
+| 2: MPC   |           | Oblivious Transfer | TBD | TBD | TBD |
+| 3: ZKP   |           | Sigma Protocols    | TBD | TBD | TBD |
+| 3: ZKP   |           | Zk-Snarks          | TBD | TBD | TBD |
+| 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
+| 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
 
 Course Resources
 ------------------------
