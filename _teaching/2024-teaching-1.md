@@ -14,7 +14,7 @@ The last couple of decades have seen a significant proliferation of the Internet
 Course Schedule
 ------------------------------
 
-| Module | Date | Topic |
+| Module | Date | Topic | Compulosry Reading | Optional Reading | Lecture Material |
 |----------|----------|----------|
-| 0 | January 8 | Why Privacy |
+| 0 | January 8 | Why Privacy | TBD | TBD | TBD |
 
