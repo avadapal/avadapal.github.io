@@ -7,3 +7,5 @@ venue: "IIT Kanpur, Computer Science and Engineering"
 date: 2024-01-01
 location: "Kanpur, Uttar Pradesh"
 ---
+About the Course
+-------------------------
