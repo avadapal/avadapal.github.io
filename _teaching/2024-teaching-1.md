@@ -52,6 +52,13 @@ Course Schedule
 |25		   | 5: Application|             | Anonymous Messaging| TBD                | TBD              | TBD              |
 
 
+### References
+
+[1] Private Information Retrieval  _Chor, Goldreich, Kushilevitz_   [here](https://dl.acm.org/doi/pdf/10.1145/293347.293350)
+
+
+
+
 Course Resources
 ------------------------
 There is no one textbook for this course. There are few useful books though. 
