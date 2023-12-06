@@ -26,9 +26,9 @@ Course Schedule
 |2         | 0: Intro      |             | Crypto Refresher   | TBD                | TBD              | TBD              |  
 |3         | 1: PIR        | 15.1.23     | IT-PIR             | TBD                | TBD              | TBD              |  
 |4         | 1: PIR        |             |  C-PIR             | TBD                | TBD              | TBD              |
-|5		   | 1: PIR        |             | PIR using TEE      | TBD                | TBD              | TBD              |
+|5		   | 1: PIR        | 22.1.23     | PIR using TEE      | TBD                | TBD              | TBD              |
 |6 		   | 1: PIR        |             | DPFs               | TBD                | TBD              | TBD              | 
-|7	       | 1: PIR        |             | PIR by keywords    | TBD                | TBD              | TBD              |
+|7	       | 1: PIR        | 29.1.23     | PIR by keywords    | TBD                | TBD              | TBD              |
 |8	       | 2: MPC        |             | Garbled Circuits   | TBD                | TBD              | TBD              |
 |9	       | 2: MPC        |             | GMW                | TBD                | TBD              | TBD              |
 |10	       | 2: MPC        |             | BGW                | TBD                | TBD              | TBD              |
