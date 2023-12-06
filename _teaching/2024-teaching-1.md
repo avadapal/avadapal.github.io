@@ -58,16 +58,18 @@ There is no one textbook for this course. There are few useful books though.
 Assignments
 ----------------------------
 
-- Assignment 1: 20%
-- Assignment 2: 20%
-- Assignment 3: 40%
-- Quizzes     : 5%
-- Final Exam  : 15%
+
 
 
 
 Grading
 -----------------------------
+
+- Assignment 1: 20%
+- Assignment 2: 20%
+- Assignment 3: 40%
+- Quizzes     : 5%
+- Final Exam  : 15%
 
 Academic Integrity
 ---------------------------
