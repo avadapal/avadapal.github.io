@@ -54,8 +54,8 @@ Course Schedule
 
 ### References
 
-[1] Private Information Retrieval  _Chor, Goldreich, Kushilevitz_   [here](https://dl.acm.org/doi/pdf/10.1145/293347.293350)
-[2] Gentle Introduction to Yao's Garbled Circuits [here](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
+- [1] Private Information Retrieval  _Chor, Goldreich, Kushilevitz_   [here](https://dl.acm.org/doi/pdf/10.1145/293347.293350)
+- [2] Gentle Introduction to Yao's Garbled Circuits [here](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
 
 
 
