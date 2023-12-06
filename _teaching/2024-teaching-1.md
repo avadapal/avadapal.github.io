@@ -65,6 +65,8 @@ Assignments
 Grading
 -----------------------------
 
+|              |      | 
+|--------------|------|
 |Assignment 1  | 20%  | 
 |--------------|------|
 |Assignment 2  | 20%  | 
@@ -80,7 +82,8 @@ Grading
 
 Academic Integrity
 ---------------------------
-See CSE Department's Policy: https://www.cse.iitk.ac.in/pages/AntiCheatingPolicy.html
+See CSE Department's Policy [here](https://www.cse.iitk.ac.in/pages/AntiCheatingPolicy.html)
 
 Mental Health Support
 ---------------------------
+See Counselling Service of CSE Deparment [here](https://www.cse.iitk.ac.in/pages/Counselling.html)
