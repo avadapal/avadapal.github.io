@@ -14,10 +14,10 @@ The last couple of decades have seen a significant proliferation of the Internet
 
 Course Organization
 -----------------------
-# Course Staff
+### Course Staff
 - Instructor: Adithya Vadapalli
 
-# Office Hours
+### Office Hours
 Location: KD-317, Time: TBD 
 
 Course Schedule
