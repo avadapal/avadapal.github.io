@@ -22,7 +22,7 @@ Course Schedule
 
 | #        | Module        | Date        | Topic              | Compulosry Reading | Optional Reading | Lecture Material |
 |----------|---------------|-------------|--------------------|--------------------|------------------|------------------|
-|1         | 0: Intro      | 8.1.23 	 | Why Privacy        | TBD                | TBD              | TBD              |
+|1         | 0: Intro      | 8.1.23 	 | Why Privacy        | [I have nothing to hide](https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications)               | TBD              | TBD              |
 |2         | 0: Intro      |             | Crypto Refresher   | TBD                | TBD              | TBD              |  
 |3         | 1: PIR        | 15.1.23     | IT-PIR             | TBD                | TBD              | TBD              |  
 |4         | 1: PIR        |             |  C-PIR             | TBD                | TBD              | TBD              |
