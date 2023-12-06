@@ -65,14 +65,22 @@ Assignments
 Grading
 -----------------------------
 
-- Assignment 1: 20%
-- Assignment 2: 20%
-- Assignment 3: 40%
-- Quizzes     : 5%
-- Final Exam  : 15%
+|Assignment 1  | 20%  | 
+|--------------|------|
+|Assignment 2  | 20%  | 
+|--------------|------|
+|Assignment 3  | 40%  | 
+|--------------|------|
+|Quizzes       | 5%   |
+|--------------|------|
+|Final Exam    | 15%  |  
+|--------------|------|
+
+
 
 Academic Integrity
 ---------------------------
+See CSE Department's Policy: https://www.cse.iitk.ac.in/pages/AntiCheatingPolicy.html
 
 Mental Health Support
 ---------------------------
