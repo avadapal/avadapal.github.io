@@ -20,33 +20,33 @@ Course Staff
 Course Schedule
 ------------------------------
 
-| Lecture  | Module   | Date      | Topic | Compulosry Reading | Optional Reading | Lecture Material |
-|----------|----------|-----------|----------|---------| ----------| --------|
-|1         | 0: Intro | January 8 | Why Privacy | TBD | TBD | TBD |
-|2         | 0: Intro |           | Crypto Refresher | TBD | TBD | TBD |  
-|3         | 1: PIR   |           | IT-PIR           | TBD | TBD | TBD |  
-|4         | 1: PIR   |           | C-PIR            | TBD | TBD | TBD |
-|5		   | 1: PIR   |           | PIR using TEE    | TBD | TBD | TBD |
-|6 		   | 1: PIR   |           | Distributed Point Functions| TBD | TBD | TBD | 
-|7	       | 1: PIR   |           | PIR by keywords    | TBD | TBD | TBD |
-|8	       | 2: MPC   |           | Garbled Circuits   | TBD | TBD | TBD |
-|9	       | 2: MPC   |           | GMW                | TBD | TBD | TBD |
-|10	       | 2: MPC   |           | BGW                | TBD | TBD | TBD |
-|11	       | 2: MPC   |           | ABY                | TBD | TBD | TBD |
-|12	       | 2: MPC   |           | Server-Aided MPC   | TBD | TBD | TBD |
-|13		   | 2: MPC   |           | Oblivious Transfer | TBD | TBD | TBD |
-|14		   | 3: ZKP   |           | Sigma Protocols    | TBD | TBD | TBD |
-|15		   | 3: ZKP   |           | Zk-Snarks          | TBD | TBD | TBD |
-|16		   | 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
-|17		   | 3: ZKP   |           | MPC-in-the-head    | TBD | TBD | TBD |
-|18	   	   | 4: ORAM  |           | Client-Server ORAM | TBD | TBD | TBD |
-|19		   | 4: ORAM  |           | Hierarchical ORAM  | TBD | TBD | TBD |
-|20		   | 4: ORAM  |           | Tree ORAM          | TBD | TBD | TBD |
-|21		   | 4: ORAM  |           | Path ORAM           | TBD | TBD | TBD |
-|22		   | 4: ORAM  |           | DORAM               | TBD | TBD | TBD |
-|23	       | 5: Application|      | Tor                 | TBD | TBD | TBD |
-|24		   | 5: Application|      | OTR                 | TBD | TBD | TBD |
-|25		   | 5: Application|      | Anonymous Messaging | TBD | TBD | TBD |
+| #        | Module        | Date        | Topic              | Compulosry Reading | Optional Reading | Lecture Material |
+|----------|---------------|-------------|--------------------|--------------------|------------------|------------------|
+|1         | 0: Intro      | 8.1.23 	 | Why Privacy        | TBD                | TBD              | TBD              |
+|2         | 0: Intro      |             | Crypto Refresher   | TBD                | TBD              | TBD              |  
+|3         | 1: PIR        | 15.1.23     | IT-PIR             | TBD                | TBD              | TBD              |  
+|4         | 1: PIR        |             |  C-PIR             | TBD                | TBD              | TBD              |
+|5		   | 1: PIR        |             | PIR using TEE      | TBD                | TBD              | TBD              |
+|6 		   | 1: PIR        |             | DPFs               | TBD                | TBD              | TBD              | 
+|7	       | 1: PIR        |             | PIR by keywords    | TBD                | TBD              | TBD              |
+|8	       | 2: MPC        |             | Garbled Circuits   | TBD                | TBD              | TBD              |
+|9	       | 2: MPC        |             | GMW                | TBD                | TBD              | TBD              |
+|10	       | 2: MPC        |             | BGW                | TBD                | TBD              | TBD              |
+|11	       | 2: MPC        |             | ABY                | TBD                | TBD              | TBD              |
+|12	       | 2: MPC        |             | Server-Aided MPC   | TBD                | TBD              | TBD              |
+|13		   | 2: MPC        |             | Oblivious Transfer | TBD                | TBD              | TBD              |
+|14		   | 3: ZKP        |             | Sigma Protocols    | TBD                | TBD              | TBD              |
+|15		   | 3: ZKP        |             | Zk-Snarks          | TBD                | TBD              | TBD              |
+|16		   | 3: ZKP        |             | MPC-in-the-head    | TBD                | TBD              | TBD              |
+|17		   | 3: ZKP        |             | MPC-in-the-head    | TBD                | TBD              | TBD              |
+|18	   	   | 4: ORAM       |             | Client-Server ORAM | TBD                | TBD              | TBD              |
+|19		   | 4: ORAM       |             | Hierarchical ORAM  | TBD                | TBD              | TBD              |
+|20		   | 4: ORAM       |             | Tree ORAM          | TBD                | TBD              | TBD              |
+|21		   | 4: ORAM       |             | Path ORAM          | TBD                | TBD              | TBD              |
+|22		   | 4: ORAM       |             | DORAM              | TBD                | TBD              | TBD              |
+|23	       | 5: Application|             | Tor                | TBD                | TBD              | TBD              |
+|24		   | 5: Application|             | OTR                | TBD                | TBD              | TBD              |
+|25		   | 5: Application|             | Anonymous Messaging| TBD                | TBD              | TBD              |
 
 
 Course Resources
