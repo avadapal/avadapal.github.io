@@ -30,35 +30,35 @@ Course Schedule
 | #  | Module      | Date     | Topic                  | Compulsory Reading | Optional Reading | Lecture Material |
 |----|-------------|----------|------------------------|--------------------|------------------|------------------|
 | 1  | 0: Intro     | 8.1.24   | Why Privacy            | [I have nothing to hide](https://scholarship.law.gwu.edu/cgi/viewcontent.cgi?article=1159&context=faculty_publications) | TBD              | TBD              |
-| 2  | 0: Intro     | 10.1.24  | Crypto Refresher       | TBD                | TBD              | TBD              |
-| 3  | 1: PIR       | 15.1.24  | IT-PIR                 | TBD                | TBD              | TBD              |
-| 4  | 1: PIR       | 17.1.24  | C-PIR                  | TBD                | TBD              | TBD              |
-| 5  | 1: PIR       | 22.1.24  | PIR using TEE          | TBD                | TBD              | TBD              |
-| 6  | 1: PIR       | 24.1.24  | DPFs                   | TBD                | TBD              | TBD              |
-| 7  | 1: PIR       | 29.1.24  | PIR by keywords        | TBD                | TBD              | TBD              |
-| 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD              | TBD              |
-| 9  | 2: MPC       | 5.2.24   | GMW                    | TBD                | TBD              | TBD              |
-| 10 | 2: MPC       | 7.2.24   | BGW                    | TBD                | TBD              | TBD              |
-| 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD              | TBD              |
-| 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD              | TBD              |
-| 13 | 2: MPC       | 19.2.24  | Oblivious Transfer     | TBD                | TBD              | TBD              |
-| 14 | 3: ZKP       | 21.2.24  | Sigma Protocols        | TBD                | TBD              | TBD              |
-| 15 | 3: ZKP       | 26.2.24  | Zk-Snarks              | TBD                | TBD              | TBD              |
-| 16 | 3: ZKP       | 28.2.24  | MPC-in-the-head        | TBD                | TBD              | TBD              |
-| 17 | 3: ZKP       | 4.3.24   | MPC-in-the-head        | TBD                | TBD              | TBD              |
-| 18 | 4: ORAM      | 6.3.24   | Client-Server ORAM     | TBD                | TBD              | TBD              |
-| 19 | 4: ORAM      | 11.3.24  | Hierarchical ORAM      | TBD                | TBD              | TBD              |
-| 20 | 4: ORAM      | 13.3.24  | Tree ORAM              | TBD                | TBD              | TBD              |
-| 21 | 4: ORAM      | 18.3.24  | Path ORAM              | TBD                | TBD              | TBD              |
-| 22 | 4: ORAM      | 20.3.24  | DORAM                  | TBD                | TBD              | TBD              |
-| 23 | 5: Application | 25.3.24 | Tor                    | TBD                | TBD              | TBD              |
-| 24 | 5: Application | 27.3.24 | OTR                    | TBD                | TBD              | TBD              |
-| 25 | 5: Application | 1.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 26 | 5: Application | 3.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 27 | 5: Application | 8.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 28 | 5: Application | 10.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 29 | 5: Application | 15.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 30 | 5: Application | 17.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 2  | 0: Intro     | 10.1.24  | Crypto Refresher       | TBD                | TBD               | TBD              |
+| 3  | 1: PIR       | 15.1.24  | IT-PIR                 | TBD                | TBD               | TBD              |
+| 4  | 1: PIR       | 17.1.24  | C-PIR                  | TBD                | TBD               | TBD              |
+| 5  | 1: PIR       | 22.1.24  | PIR using TEE          | TBD                | TBD               | TBD              |
+| 6  | 1: PIR       | 24.1.24  | DPFs                   | TBD                | TBD               | TBD              |
+| 7  | 1: PIR       | 29.1.24  | PIR by keywords        | TBD                | TBD               | TBD              |
+| 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD               | TBD              |
+| 9  | 2: MPC       | 5.2.24   | GMW                    | TBD                | TBD               | TBD              |
+| 10 | 2: MPC       | 7.2.24   | BGW                    | TBD                | TBD               | TBD              |
+| 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD               | TBD              |
+| 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD               | TBD              |
+| 13 | 2: MPC       | 19.2.24  | Oblivious Transfer     | TBD                | TBD               | TBD              |
+| 14 | 3: ZKP       | 21.2.24  | Sigma Protocols        | TBD                | TBD               | TBD              |
+| 15 | 3: ZKP       | 26.2.24  | Zk-Snarks              | TBD                | TBD               | TBD              |
+| 16 | 3: ZKP       | 28.2.24  | MPC-in-the-head        | TBD                | TBD               | TBD              |
+| 17 | 3: ZKP       | 4.3.24   | MPC-in-the-head        | TBD                | TBD               | TBD              |
+| 18 | 4: ORAM      | 6.3.24   | Client-Server ORAM     | TBD                | TBD               | TBD              |
+| 19 | 4: ORAM      | 11.3.24  | Hierarchical ORAM      | TBD                | TBD               | TBD              |
+| 20 | 4: ORAM      | 13.3.24  | Tree ORAM              | TBD                | TBD               | TBD              |
+| 21 | 4: ORAM      | 18.3.24  | Path ORAM              | TBD                 | TBD              | TBD              |
+| 22 | 4: ORAM        | 20.3.24  |                      |                     |                  |               |
+|    |                | 25.3.24 |                       |                     |                  |               |
+|    |                | 27.3.24 | OTR                    | TBD                | TBD              | TBD              |
+| 23 | 5: Application | 1.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 24 | 5: Application | 3.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 25 | 5: Application | 8.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 26 | 5: Application | 10.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 27 | 5: Application | 15.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 28 | 5: Application | 17.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
 
 ### References
 
