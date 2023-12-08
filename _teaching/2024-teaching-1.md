@@ -56,6 +56,14 @@ Course Schedule
 
 - [1] Private Information Retrieval  _Chor, Goldreich, Kushilevitz_   [here](https://dl.acm.org/doi/pdf/10.1145/293347.293350)
 - [2] Gentle Introduction to Yao's Garbled Circuits [here](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
+- [3] Blog on TEE [here](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/)
+
+
+### Additional Resources
+
+The are of Privacy and Security really benefits from some outstanding lectures available online. Some of them are below. 
+1. Kevin Yeo's [talk](https://www.youtube.com/watch?v=8eqJztvaT1w) at CrySP on Private Information Retrieval 
+2. Ryan Henry's [tutorial](https://www.youtube.com/watch?v=XEYwMPwPxNI&t=450s) on PIR at ACM CCS 2017
 
 
 
