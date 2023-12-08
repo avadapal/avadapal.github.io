@@ -54,8 +54,11 @@ Course Schedule
 | 23 | 5: Application | 25.3.24 | Tor                    | TBD                | TBD              | TBD              |
 | 24 | 5: Application | 27.3.24 | OTR                    | TBD                | TBD              | TBD              |
 | 25 | 5: Application | 1.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-
-
+| 26 | 5: Application | 3.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 27 | 5: Application | 8.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 28 | 5: Application | 10.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 29 | 5: Application | 15.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
+| 30 | 5: Application | 17.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
 
 ### References
 
