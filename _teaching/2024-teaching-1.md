@@ -14,6 +14,10 @@ The last couple of decades have seen a significant proliferation of the Internet
 
 Course Organization
 -----------------------
+
+### Where and When?
+KD101. Monday and Wednesday, 5.00 PM to 6.30 PM.
+
 ### Course Staff
 - Instructor: Adithya Vadapalli
 
