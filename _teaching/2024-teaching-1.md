@@ -23,6 +23,7 @@ KD101. Monday and Wednesday, 5.15 PM to 6.30 PM.
 
 ### Office Hours
 Location: KD-317, Time: TBD 
+Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
 Course Schedule
 ------------------------------
