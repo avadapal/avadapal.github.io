@@ -18,11 +18,17 @@ Course Organization
 ### Where and When?
 KD101. Monday and Wednesday, 5.15 PM to 6.30 PM.
 
-### Course Staff
+## Course Staff
 - Instructor: Adithya Vadapalli
 
+### Teaching Assistants
+- Anindaya anindyag@cse.iitk.ac.in
+- Dhananjay dhananjayg@cse.iitk.ac.in
+- Hrithik hrithik@cse.iitk.ac.in
+- Naman prgmaz@cse.iitk.ac.in
+
 ### Office Hours
-Location: KD-317, Time: TBD 
+Location: KD-317, Time: Monday 11 AM to 12 PM 
 
 Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
