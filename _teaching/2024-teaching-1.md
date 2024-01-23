@@ -41,8 +41,8 @@ Course Schedule
 | 2  | 0: Intro     | 10.1.24  | Crypto Refresher       | TBD                | TBD               | TBD              |
 | 3  | 1: PIR       | 15.1.24  | IT-PIR                 | [Chor's Paper](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf)                | TBD               | TBD              |
 | 4  | 1: PIR       | 17.1.24  | IT-PIR                  | [Goldberg's Paper](https://cypherpunks.ca/~iang/pubs/robustpir.pdf)                | TBD               | TBD              |
-| 5  | 1: PIR       | 22.1.24  | PIR using TEE          | TBD                | TBD               | TBD              |
-| 6  | 1: PIR       | 24.1.24  | DPFs                   | TBD                | TBD               | TBD              |
+| 5  | 1: PIR       | 22.1.24  | Distributed Point Functions          | TBD                | TBD               | TBD              |
+| 6  | 1: PIR       | 24.1.24  | Review Lecture                   | TBD                | TBD               | TBD              |
 | 7  | 1: PIR       | 29.1.24  | PIR by keywords        | TBD                | TBD               | TBD              |
 | 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD               | TBD              |
 | 9  | 2: MPC       | 5.2.24   | GMW                    | TBD                | TBD               | TBD              |
