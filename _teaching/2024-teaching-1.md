@@ -41,7 +41,7 @@ Course Schedule
 | 2  | 0: Intro     | 10.1.24  | Crypto Refresher       | TBD                | TBD               | TBD              |
 | 3  | 1: PIR       | 15.1.24  | IT-PIR                 | [Chor's Paper](https://madhu.seas.harvard.edu/papers/1995/pir-journ.pdf)                | TBD               | TBD              |
 | 4  | 1: PIR       | 17.1.24  | IT-PIR                  | [Goldberg's Paper](https://cypherpunks.ca/~iang/pubs/robustpir.pdf)                | TBD               | TBD              |
-| 5  | 1: PIR       | 22.1.24  | Distributed Point Functions          | Section 2.1.1 from [Duoram paper](https://eprint.iacr.org/2022/1747.pdf), Figure 1 from [DPF paper](https://eprint.iacr.org/2018/707.pdf)        | Section 3 from [Grotto Paper](https://eprint.iacr.org/2022/1747.pdf)               | TBD              |
+| 5  | 1: PIR       | 22.1.24  | Distributed Point Functions          | Section 2.1.1 from [Duoram paper](https://eprint.iacr.org/2022/1747.pdf), Figure 1 from [DPF paper](https://eprint.iacr.org/2018/707.pdf), Section II-A from [Sabre Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833601)     | Section 3 from [Grotto Paper](https://eprint.iacr.org/2022/1747.pdf)               | TBD              |
 | 6  | 1: PIR       | 24.1.24  | Review Lecture                   | TBD                | TBD               | TBD              |
 | 7  | 1: PIR       | 29.1.24  | PIR by keywords        | TBD                | TBD               | TBD              |
 | 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD               | TBD              |
