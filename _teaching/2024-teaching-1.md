@@ -30,6 +30,11 @@ KD101. Monday and Wednesday, 5.15 PM to 6.30 PM.
 ### Office Hours
 Location: KD-317, Time: Monday 11 AM to 12 PM 
 
+### Quizzes
+
+[Quiz1 Redressal Form](https://docs.google.com/forms/d/e/1FAIpQLSeUPCbHEFq07B5MkZfcEcoMj-QKj-7B9iAKUW_X77PPz-RiKw/viewform)
+
+
 Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
 Course Schedule
