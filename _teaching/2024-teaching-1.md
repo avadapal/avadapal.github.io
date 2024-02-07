@@ -50,8 +50,8 @@ Course Schedule
 | 6  | 1: PIR       | 24.1.24  | Review Lecture                   | TBD                | TBD               | TBD              |
 | 7  | 1: PIR       | 29.1.24  | Computational PIR        | [Survey on CPIR](https://eprint.iacr.org/2007/059.pdf)                | TBD               | TBD              |
 | 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD               | TBD              |
-| 9  | 2: MPC       | 5.2.24   | GMW                    | TBD                | TBD               | TBD              |
-| 10 | 2: MPC       | 7.2.24   | BGW                    | TBD                | TBD               | TBD              |
+| 9  | 2: MPC       | 5.2.24   |                     | TBD                | TBD               | TBD              |
+| 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | TBD               | TBD              |
 | 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD               | TBD              |
 | 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD               | TBD              |
 | 13 | 2: MPC       | 19.2.24  | Oblivious Transfer     | TBD                | TBD               | TBD              |
