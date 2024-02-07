@@ -51,7 +51,7 @@ Course Schedule
 | 7  | 1: PIR       | 29.1.24  | Computational PIR        | [Survey on CPIR](https://eprint.iacr.org/2007/059.pdf)                | TBD               | TBD              |
 | 8  | 1: PIR       | 31.1.24  | Quiz 2 + Pirsona       | [Pirsona Paper](https://petsymposium.org/popets/2021/popets-2021-0059.pdf)                | TBD               | TBD              |
 | 9  | 1: PIR       | 5.2.24   | Pirsona                | [Pirsona Paper](https://petsymposium.org/popets/2021/popets-2021-0059.pdf)                | TBD               | TBD              |
-| 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | TBD               | TBD              |
+| 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | [How To Simulate It](https://eprint.iacr.org/2016/046.pdf)               | TBD              |
 | 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD               | TBD              |
 | 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD               | TBD              |
 | 13 | 2: MPC       | 19.2.24  | Oblivious Transfer     | TBD                | TBD               | TBD              |
@@ -78,7 +78,7 @@ Course Schedule
 - [1] Private Information Retrieval  _Chor, Goldreich, Kushilevitz_   [here](https://dl.acm.org/doi/pdf/10.1145/293347.293350)
 - [2] Gentle Introduction to Yao's Garbled Circuits [here](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
 - [3] Blog on TEE [here](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/)
-
+- [4] Resources for MPC: [here](https://u.cs.biu.ac.il/~lindell/MPC-resources.html), and [here](https://github.com/rdragos/awesome-mpc)
 
 ### Additional Resources
 
