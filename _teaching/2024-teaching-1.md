@@ -79,6 +79,7 @@ Course Schedule
 - [2] Gentle Introduction to Yao's Garbled Circuits [here](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)
 - [3] Blog on TEE [here](https://sergioprado.blog/introduction-to-trusted-execution-environment-tee-arm-trustzone/)
 - [4] Resources for MPC: [here](https://u.cs.biu.ac.il/~lindell/MPC-resources.html), and [here](https://github.com/rdragos/awesome-mpc)
+- [5] [Winter School on MPC](https://www.youtube.com/playlist?list=PLXF_IJaFk-9BFn8M-dsEm5x3-5Cvji3V9)
 
 ### Additional Resources
 
