@@ -49,8 +49,8 @@ Course Schedule
 | 5  | 1: PIR       | 22.1.24  | Distributed Point Functions          | Section 2.1.1 from [Duoram paper](https://eprint.iacr.org/2022/1747.pdf), Figure 1 from [DPF paper](https://eprint.iacr.org/2018/707.pdf), Section II-A from [Sabre Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9833601), Section 6.1 from the [Pirsona Paper](https://petsymposium.org/popets/2021/popets-2021-0059.pdf), Section 4.1 to 4.3 in the [Riposte paper](https://www.freehaven.net/anonbib/cache/riposte2015.pdf)  | Section 3 from [Grotto Paper](https://eprint.iacr.org/2022/1747.pdf) , [The original DPF paper](https://dl.acm.org/doi/pdf/10.1145/2976749.2978429), [DPF based PIR scheme](https://petsymposium.org/popets/2019/popets-2019-0061.pdf)       | TBD              |
 | 6  | 1: PIR       | 24.1.24  | Review Lecture                   | TBD                | TBD               | TBD              |
 | 7  | 1: PIR       | 29.1.24  | Computational PIR        | [Survey on CPIR](https://eprint.iacr.org/2007/059.pdf)                | TBD               | TBD              |
-| 8  | 2: MPC       | 31.1.24  | Garbled Circuits       | TBD                | TBD               | TBD              |
-| 9  | 2: MPC       | 5.2.24   |                     | TBD                | TBD               | TBD              |
+| 8  | 1: PIR       | 31.1.24  | Quiz 2 + Pirsona       | TBD                | TBD               | TBD              |
+| 9  | 1: PIR       | 5.2.24   | Pirsona                     | TBD                | TBD               | TBD              |
 | 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | TBD               | TBD              |
 | 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD               | TBD              |
 | 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD               | TBD              |
