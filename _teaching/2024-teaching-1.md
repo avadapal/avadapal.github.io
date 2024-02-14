@@ -99,9 +99,6 @@ There is no one textbook for this course. There are few useful books though.
 - Modern Cryptography by _Katz and Lindell_
 - Pragmatic MPC by _Evans, Koselnikov, and Rosulek_
 
-Assignments
-----------------------------
-
 
 
 
