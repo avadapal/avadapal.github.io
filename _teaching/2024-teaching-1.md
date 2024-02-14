@@ -34,6 +34,9 @@ Location: KD-317, Time: Monday 11 AM to 12 PM
 
 [Quiz1 Redressal Form](https://docs.google.com/forms/d/e/1FAIpQLSeUPCbHEFq07B5MkZfcEcoMj-QKj-7B9iAKUW_X77PPz-RiKw/viewform)
 
+### Assignments
+
+- Assignment 1 can be downloaded [here](https://github.com/avadapal/avadapal.github.io/raw/1082fd41291e37ae4126d05d2fc735e64733f45c/_teaching/A1.pdf)
 
 Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
