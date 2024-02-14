@@ -87,16 +87,11 @@ The are of Privacy and Security really benefits from some outstanding lectures a
 2. Ryan Henry's [tutorial](https://www.youtube.com/watch?v=XEYwMPwPxNI&t=450s) on PIR at ACM CCS 2017
 
 
-
-
 Course Resources
 ------------------------
 There is no one textbook for this course. There are few useful books though. 
 - Modern Cryptography by _Katz and Lindell_
 - Pragmatic MPC by _Evans, Koselnikov, and Rosulek_
-
-
-
 
 
 Grading
