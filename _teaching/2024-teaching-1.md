@@ -37,7 +37,7 @@ Students are welcome to meet the instructor and discuss any thing from the cours
 
 ### Assignments
 
--Assignment 1 can be downloaded here.
+- Assignment 1 can be downloaded [here](https://github.com/avadapal/avadapal.github.io/raw/master/files/cs670-2024/A1.pdf).
 
 Course Schedule
 ------------------------------
