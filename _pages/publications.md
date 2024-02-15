@@ -5,12 +5,9 @@ permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Prac:  
+- Grotto: Screaming fast (2 + 1)-PC for Z via (2, 2)-DPFs
+- Duoram: A Bandwidth-Efficient Distributed ORAM for 2- and 3-Party Computation
+- Sabre: Sender-Anonymous Messaging with Fast Audits
+- You May Also Like… Privacy: Recommendation Systems Meet PIR
+- Massively parallel algorithms and hardness for single-linkage clustering under ℓp-distances
