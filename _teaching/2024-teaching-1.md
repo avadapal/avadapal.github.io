@@ -35,6 +35,10 @@ Location: KD-317, Time: Monday 11 AM to 12 PM
 
 Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
+### Assignments
+
+-Assignment 1 can be downloaded here.
+
 Course Schedule
 ------------------------------
 
