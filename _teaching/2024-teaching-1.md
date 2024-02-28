@@ -54,12 +54,12 @@ Course Schedule
 | 8  | 1: PIR       | 31.1.24  | Quiz 2 + Pirsona       | [Pirsona Paper](https://petsymposium.org/popets/2021/popets-2021-0059.pdf)                | TBD               | TBD              |
 | 9  | 1: PIR       | 5.2.24   | Pirsona                | [Pirsona Paper](https://petsymposium.org/popets/2021/popets-2021-0059.pdf)                | TBD               | TBD              |
 | 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | [How To Simulate It](https://eprint.iacr.org/2016/046.pdf)               | TBD              |
-| 11 | 2: MPC       | 12.2.24  | ABY                    | TBD                | TBD               | TBD              |
-| 12 | 2: MPC       | 14.2.24  | Server-Aided MPC       | TBD                | TBD               | TBD              |
-| 13 | 2: MPC       | 19.2.24  | Oblivious Transfer     | TBD                | TBD               | TBD              |
-| 14 | 3: ZKP       | 21.2.24  | Sigma Protocols        | TBD                | TBD               | TBD              |
-| 15 | 3: ZKP       | 26.2.24  | Zk-Snarks              | TBD                | TBD               | TBD              |
-| 16 | 3: ZKP       | 28.2.24  | MPC-in-the-head        | TBD                | TBD               | TBD              |
+| 11 | 2: MPC       | 12.2.24  | Oblivious Transfer                    | TBD                | TBD               | TBD              |
+| 12 | 2: MPC       | 14.2.24  | Midsems      | TBD                | TBD               | TBD              |
+| 13 | 2: MPC       | 19.2.24  | Midsems     | TBD                | TBD               | TBD              |
+| 14 | 2: MPC       | 21.2.24  | Garbled Circuits (GC)        | TBD                | TBD               | TBD              |
+| 15 | 2: MPC       | 26.2.24  | Optimizatios of GC, GMW protocol              | TBD                | TBD               | TBD              |
+| 16 | 2: MPC       | 28.2.24  | Quiz 3      | TBD                | TBD               | TBD              |
 | 17 | 3: ZKP       | 4.3.24   | MPC-in-the-head        | TBD                | TBD               | TBD              |
 | 18 | 4: ORAM      | 6.3.24   | Client-Server ORAM     | TBD                | TBD               | TBD              |
 | 19 | 4: ORAM      | 11.3.24  | Hierarchical ORAM      | TBD                | TBD               | TBD              |
