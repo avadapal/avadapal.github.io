@@ -31,7 +31,8 @@ Location: KD-317, Time: Monday 11 AM to 12 PM
 
 ### Quizzes
 
-[Quiz1 Redressal Form](https://docs.google.com/forms/d/e/1FAIpQLSeUPCbHEFq07B5MkZfcEcoMj-QKj-7B9iAKUW_X77PPz-RiKw/viewform)
+-  [Quiz1 Redressal Form](https://docs.google.com/forms/d/e/1FAIpQLSeUPCbHEFq07B5MkZfcEcoMj-QKj-7B9iAKUW_X77PPz-RiKw/viewform)
+-  [Quiz2 Redressal Form](https://docs.google.com/forms/d/e/1FAIpQLSfg8KP8CabiYJLwS_UT0OyHfvwQn6aXBK_jMwgPsAKJAKr5mg/viewform)
 
 Students are welcome to meet the instructor and discuss any thing from the course during the office hours.
 
