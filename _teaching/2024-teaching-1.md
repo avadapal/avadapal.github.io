@@ -21,7 +21,7 @@ KD101. Monday and Wednesday, 5.15 PM to 6.30 PM.
 - Instructor: Adithya Vadapalli
 
 ### Teaching Assistants
-- Anindaya anindyag@cse.iitk.ac.in
+- Anindya anindyag@cse.iitk.ac.in
 - Dhananjay dhananjayg@cse.iitk.ac.in
 - Hrithik hrithik@cse.iitk.ac.in
 - Naman prgmaz@cse.iitk.ac.in
