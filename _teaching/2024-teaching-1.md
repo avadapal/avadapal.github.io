@@ -61,11 +61,11 @@ Course Schedule
 | 14 |        | 21.2.24  |   Midsems      | TBD                | TBD               | TBD              |
 | 15 | 2: MPC       | 26.2.24  | Optimizatios of GC, GMW protocol              | TBD                | TBD               | TBD              |
 | 16 | 2: MPC       | 28.2.24  | Quiz 3      | TBD                | TBD               | TBD              |
-| 17 | 2: MPC       | 4.3.24   | ABY       | TBD                | TBD               | TBD              |
-| 18 | 3: ZKP      | 6.3.24   | Client-Server ORAM     | TBD                | TBD               | TBD              |
-| 19 | 3: ZKP      | 11.3.24  | Hierarchical ORAM      | TBD                | TBD               | TBD              |
-| 20 | 3: ZKP      | 13.3.24  | Tree ORAM              | TBD                | TBD               | TBD              |
-| 21 | 3: ZKP      | 18.3.24  | Path ORAM              | TBD                 | TBD              | TBD              |
+| 17 | 3: ORAM       | 4.3.24   | Squareroot ORAM       | TBD                | TBD               | TBD              |
+| 18 | 3: ORAM      | 6.3.24   | Hierarchical ORAM     | TBD                | TBD               | TBD              |
+| 19 | 3: ORAM      | 11.3.24  | Tree ORAM      | TBD                | TBD               | TBD              |
+| 20 | 3: ORAM      | 13.3.24  | Floram              | TBD                | TBD               | TBD              |
+| 21 | 3: ORAM      | 18.3.24  | Path ORAM              | TBD                 | TBD              | TBD              |
 | 22 | 4: ORAM        | 20.3.24  |                      |                     |                  |               |
 |    |                | 25.3.24 |                       |                     |                  |               |
 |    |                | 27.3.24 | OTR                    | TBD                | TBD              | TBD              |
