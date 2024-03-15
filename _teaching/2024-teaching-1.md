@@ -66,16 +66,6 @@ Course Schedule
 | 19 | 3: ORAM       | 9.3.24 (extra class)   | Squareroot ORAM       |     Sections 1 to 4 [here](https://users.cs.utah.edu/~lifeifei/papers/oramvldb16.pdf)            |     [Original ORAM Paper](https://dl.acm.org/doi/pdf/10.1145/233551.233553)            |      TBD        |
 | 20 | 3: ORAM      | 11.3.24   | Hierarchical ORAM     | Chapter 1 from [here](https://repository.library.northeastern.edu/files/neu:rx917826p/fulltext.pdf), Original [Tree ORAM paper](https://eprint.iacr.org/2011/407.pdf)               | TBD               | TBD              |         |
 | 21 | 3: ORAM      | 13.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
-<!-- | 23 | 3: ORAM      | 13.3.24  | Path ORAM              | TBD                 | TBD              | TBD              |
-| 22 | 4: ORAM        | 20.3.24  |                      |                     |                  |               |
-|    |                | 25.3.24 |                       |                     |                  |               |
-|    |                | 27.3.24 | OTR                    | TBD                | TBD              | TBD              |
-| 23 | 5: Application | 1.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 24 | 5: Application | 3.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 25 | 5: Application | 8.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 26 | 4: ORAM | 10.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 27 | 5: Application | 15.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              |
-| 28 | 5: Application | 17.4.24  | Anonymous Messaging    | TBD                | TBD              | TBD              | -->
 
 ### References
 
