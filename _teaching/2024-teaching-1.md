@@ -57,15 +57,15 @@ Course Schedule
 | 10 | 2: MPC       | 7.2.24   | Introduction to MPC    | Chapter 2 [MPC Book](https://securecomputation.org/docs/pragmaticmpc.pdf), [MPC](https://eprint.iacr.org/2020/300.pdf)                | [How To Simulate It](https://eprint.iacr.org/2016/046.pdf)               | TBD              |
 | 11 | 2: MPC       | 12.2.24  | Oblivious Transfer                    | TBD                | TBD               | TBD              |
 | 12 | 2: MPC       | 14.2.24  | Garbled Circuits (GC)      | TBD                | [Introduction to Garbled Circuits](https://web.mit.edu/sonka89/www/papers/2017ygc.pdf)               | TBD              |
-| 13 |         | 19.2.24  | Midsems     | TBD                | TBD               | TBD              |
-| 14 |        | 21.2.24  |   Midsems      | TBD                | TBD               | TBD              |
-| 15 | 2: MPC       | 26.2.24  | Optimizatios of GC, GMW protocol              | TBD                | TBD               | TBD              |
-| 16 | 2: MPC       | 28.2.24  | Quiz 3      | TBD                | TBD               | TBD              |
-| 17 | 2: MPC       | 4.3.24  | MPC on Secret Shares      | TBD                | TBD               | TBD
-| 18 | 2: MPC       | 6.3.24  | MPC Applications     | TBD                | TBD               | TBD
-| 19 | 3: ORAM       | 9.3.24 (extra class)   | Squareroot ORAM       |     Sections 1 to 4 [here](https://users.cs.utah.edu/~lifeifei/papers/oramvldb16.pdf)            |     [Original ORAM Paper](https://dl.acm.org/doi/pdf/10.1145/233551.233553)            |      TBD        |
-| 20 | 3: ORAM      | 11.3.24   | Hierarchical ORAM     | Chapter 1 from [here](https://repository.library.northeastern.edu/files/neu:rx917826p/fulltext.pdf), Original [Tree ORAM paper](https://eprint.iacr.org/2011/407.pdf)               | TBD               | TBD              |         |
-| 21 | 3: ORAM      | 13.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+|  |         | 19.2.24  | Midsems     |                 |                |               |
+|  |        | 21.2.24  |   Midsems      |                 |                |               |
+| 13 | 2: MPC       | 26.2.24  | Optimizatios of GC, GMW protocol              | TBD                | TBD               | TBD              |
+| 14 | 2: MPC       | 28.2.24  | Quiz 3 + Beaver Triples     | TBD                | TBD               | TBD              |
+| 15 | 2: MPC       | 4.3.24  | MPC Applications      | TBD                | TBD               | TBD
+| 16 | 2: MPC       | 6.3.24  |  Review Lecture on MPC  | TBD                | TBD               | TBD
+| 17 | 3: ORAM       | 9.3.24 (extra class)   | Squareroot ORAM       |     Sections 1 to 4 [here](https://users.cs.utah.edu/~lifeifei/papers/oramvldb16.pdf)            |     [Original ORAM Paper](https://dl.acm.org/doi/pdf/10.1145/233551.233553)            |      TBD        |
+| 18 | 3: ORAM      | 11.3.24   | Hierarchical ORAM     | Chapter 1 from [here](https://repository.library.northeastern.edu/files/neu:rx917826p/fulltext.pdf), Original [Tree ORAM paper](https://eprint.iacr.org/2011/407.pdf)               | TBD               | TBD              |         |
+| 19 | 3: ORAM      | 13.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
 
 ### References
 
