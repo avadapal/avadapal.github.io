@@ -63,9 +63,16 @@ Course Schedule
 | 14 | 2: MPC       | 28.2.24  | Quiz 3 + Beaver Triples     | TBD                | TBD               | TBD              |
 | 15 | 2: MPC       | 4.3.24  | MPC Applications      | TBD                | TBD               | TBD
 | 16 | 2: MPC       | 6.3.24  |  Review Lecture on MPC  | TBD                | TBD               | TBD
-| 17 | 3: ORAM       | 9.3.24 (extra class)   | Squareroot ORAM       |     Sections 1 to 4 [here](https://users.cs.utah.edu/~lifeifei/papers/oramvldb16.pdf)            |     [Original ORAM Paper](https://dl.acm.org/doi/pdf/10.1145/233551.233553)            |      TBD        |
+| 17 | 3: ORAM       | 9.3.24 (Extra Class)   | Squareroot ORAM       |     Sections 1 to 4 [here](https://users.cs.utah.edu/~lifeifei/papers/oramvldb16.pdf)            |     [Original ORAM Paper](https://dl.acm.org/doi/pdf/10.1145/233551.233553)            |      TBD        |
 | 18 | 3: ORAM      | 11.3.24   | Hierarchical ORAM     | Chapter 1 from [here](https://repository.library.northeastern.edu/files/neu:rx917826p/fulltext.pdf), Original [Tree ORAM paper](https://eprint.iacr.org/2011/407.pdf)               | TBD               | TBD              |         |
 | 19 | 3: ORAM      | 13.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 20 | 3: ORAM      | 18.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 21 | 3: ORAM      | 21.3.24  | ORAM for MPC, Floram              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 22 | 3: ORAM      | 13.4.24 (Extra Class)  | ORAM Recap              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 23 | 4: ZKP      | 13.4.24 (Extra Class)  | ORAM Recap              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 24 | 4: ZKP      | 14.4.24 (Extra Class)  | ORAM Recap              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 25 | 4: ZKP      | 15.4.24   | ORAM Recap              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
+| 26 | End Sem Prep      | 17.4.24   | ORAM Recap              | Revisiting Square Root ORAM [paper](https://www.cs.umd.edu/~jkatz/papers/sqoram.pdf), Original [Floram Paper](https://eprint.iacr.org/2017/827.pdf)                | TBD               | TBD              |
 
 ### References
 
