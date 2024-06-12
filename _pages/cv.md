@@ -18,7 +18,7 @@ Education
 
 Work experience
 ======
-* Assistant Professor, Septemebr 2023 - present
+* Assistant Professor, September 2023 - present
    * Indian Institute of Technology, Kanpur
 
 * Postdoctoral Fellow, September 2021 - August 2023
