@@ -41,5 +41,6 @@ Teaching
   
 Service and leadership
 ======
+* Artifact Reviewer, CCS 2024
 * Artifact Reviewer, WiSec 2023
 * Invited Reviewer,  ACM Digital Threats Research and Practice
