@@ -74,7 +74,24 @@ Grading
 ### Midsems
 
 ### Project
+#### Theoretical Projects
+The possible theoretical projects can be (but not limited to) on the following topics:
+	- Garbled Circuits
+        - Oblivious Transfers
+	- Verifiable Secret Sharing
+	- Oblivious Random Access Memory
+	- Distributed Oblivious Random Access Memory
+	- Private Set Intersection
 
+
+#### Practical Projects
+The possible practical projects can be (but not limited to) on the following topics:
+ 	- Secure Elections
+	- Secure Auctions
+	- Private Recommender Systems
+	- Oblivious Data structures
+	- Sender Anonymous Messaging Systems
+ 
 Academic Integrity
 ---------------------------
 See CSE Department's Policy [here](https://www.cse.iitk.ac.in/pages/AntiCheatingPolicy.html)
