@@ -33,22 +33,22 @@ By Appointment.
 Course Schedule
 ------------------------------
 
-| #  | Module      | Date     | Topic                  | Compulsory Reading | Optional Reading | 
-|----|-------------|----------|------------------------|--------------------|------------------|
-| 1  | Intro     | 31.07.24| Introduction               |       TBD          | TBD              |
-| 2  | Intro     | 02.08.24| Evaluating an MPC protocol |                    |                  |
-| 3  | Garbled Circuits| 12.08.24| Intro to GC          |                    |                  |
-| 4  | Garbled Circuits| 14.08.24| P&P, Free XOR, 3GRR  |                    |                  |
-| 5  | Garbled Circuits| 16.08.24| Flexor, 2GRR       |                    |                  |
-| 6  | Garbled Circuits| 19.08.24| Two Halves make a Whole                 |                    |                  |
-| 7  | Garbled Circuits| 21.08.24| GC Recap + Quiz 1    |                    |                  |
-| 8  | Oblivious Transfer| 23.08.24| GMW Protocol         |                    |                  |
-| 9  | Oblivious Transfer| 28.08.24| Random OT, OT Extension          |                    |                  |
-| 10 | Oblivious Transfer| 30.08.24| IKNP               |                    |                  |
-| 11  | Oblivious Transfer| 02.09.24| IKNP Malicious    |                    |                  |
-| 12  | Oblivious Transfer| 04.09.24| Blum's Coin Toss  |                    |                  |
-| 13  | Oblivious Transfer| 06.09.24| Recap of OT         |                    |                  |
-| 14  | Oblivious Transfer| 07.09.24|          |                    |                  |
+| #  | Date     | Topic       | Compulsory Reading | Optional Reading | 
+|----|----------|------------------------|--------------------|------------------|
+| 1  | 31.07.24| Introduction               |       TBD          | TBD              |
+| 2  | 02.08.24| Evaluating an MPC protocol |                    |                  |
+| 3  | 12.08.24| Intro to GC                |                    |                  |
+| 4  | 14.08.24| P&P, Free XOR, 3GRR        |                    |                  |
+| 5  | 16.08.24| Flexor, 2GRR               |                    |                  |
+| 6  | 19.08.24| Two Halves make a Whole    |                    |                  |                  
+| 7  | 21.08.24| GC Recap + Quiz 1          |                    |                  |
+| 8  | 23.08.24| GMW Protocol               |                    |                  |
+| 9  | 28.08.24| ROT, OTExtension           |                    |                  |
+| 10 | 30.08.24| IKNP                       |                    |                  |
+| 11 | 02.09.24| IKNP Malicious             |                    |                  |
+| 12 | 04.09.24| Blum's Coin Toss           |                    |                  |
+| 13 | 06.09.24| Recap of OT                |                    |                  |
+| 14 | 07.09.24|                            |                    |                  |
 ### References
 - [1] Resources for MPC: [here](https://u.cs.biu.ac.il/~lindell/MPC-resources.html), and [here](https://github.com/rdragos/awesome-mpc)
 - [2] [Winter School on MPC](https://www.youtube.com/playlist?list=PLXF_IJaFk-9BFn8M-dsEm5x3-5Cvji3V9)
