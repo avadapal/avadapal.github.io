@@ -33,8 +33,8 @@ By Appointment.
 Course Schedule
 ------------------------------
 
-| #  | Date     | Topic       | Compulsory Reading | Optional Reading | 
-|----|----------|------------------------|--------------------|------------------|
+| #  | Date     | Topic                     | Compulsory Reading | Optional Reading | 
+|----|----------|---------------------------|--------------------|------------------|
 | 1  | 31.07.24| Introduction               |       TBD          | TBD              |
 | 2  | 02.08.24| Evaluating an MPC protocol |                    |                  |
 | 3  | 12.08.24| Intro to GC                |                    |                  |
@@ -49,6 +49,11 @@ Course Schedule
 | 12 | 04.09.24| Blum's Coin Toss           |                    |                  |
 | 13 | 06.09.24| Recap of OT                |                    |                  |
 | 14 | 07.09.24|                            |                    |                  |
+-------------------------------------------------------------------------------------------
+
+
+
+
 ### References
 - [1] Resources for MPC: [here](https://u.cs.biu.ac.il/~lindell/MPC-resources.html), and [here](https://github.com/rdragos/awesome-mpc)
 - [2] [Winter School on MPC](https://www.youtube.com/playlist?list=PLXF_IJaFk-9BFn8M-dsEm5x3-5Cvji3V9)
