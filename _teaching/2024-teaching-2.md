@@ -33,23 +33,23 @@ By Appointment.
 Course Schedule
 ------------------------------
 
-| #  | Date     | Topic                     | Compulsory Reading | Optional Reading | 
-|----|----------|---------------------------|--------------------|------------------|
-| 1  | 31.07.24| Introduction               |       TBD          | TBD              |
-| 2  | 02.08.24| Evaluating an MPC protocol |                    |                  |
-| 3  | 12.08.24| Intro to GC                |                    |                  |
-| 4  | 14.08.24| P&P, Free XOR, 3GRR        |                    |                  |
-| 5  | 16.08.24| Flexor, 2GRR               |                    |                  |
-| 6  | 19.08.24| Two Halves make a Whole    |                    |                  |                  
-| 7  | 21.08.24| GC Recap + Quiz 1          |                    |                  |
-| 8  | 23.08.24| GMW Protocol               |                    |                  |
-| 9  | 28.08.24| ROT, OTExtension           |                    |                  |
-| 10 | 30.08.24| IKNP                       |                    |                  |
-| 11 | 02.09.24| IKNP Malicious             |                    |                  |
-| 12 | 04.09.24| Blum's Coin Toss           |                    |                  |
-| 13 | 06.09.24| Recap of OT                |                    |                  |
-| 14 | 07.09.24|                            |                    |                  |
--------------------------------------------------------------------------------------------
+| #  | Date      | Topic                     | Compulsory Reading | Optional Reading |
+|----|-----------|---------------------------|--------------------|------------------|
+| 1  | 31.07.24  | Introduction               | TBD                | TBD              |
+| 2  | 02.08.24  | Evaluating an MPC protocol |                    |                  |
+| 3  | 12.08.24  | Intro to GC                |                    |                  |
+| 4  | 14.08.24  | P&P, Free XOR, 3GRR        |                    |                  |
+| 5  | 16.08.24  | Flexor, 2GRR               |                    |                  |
+| 6  | 19.08.24  | Two Halves make a Whole    |                    |                  |                  
+| 7  | 21.08.24  | GC Recap + Quiz 1          |                    |                  |
+| 8  | 23.08.24  | GMW Protocol               |                    |                  |
+| 9  | 28.08.24  | ROT, OTExtension           |                    |                  |
+| 10 | 30.08.24  | IKNP                       |                    |                  |
+| 11 | 02.09.24  | IKNP Malicious             |                    |                  |
+| 12 | 04.09.24  | Blum's Coin Toss           |                    |                  |
+| 13 | 06.09.24  | Recap of OT                |                    |                  |
+| 14 | 07.09.24  | TBD                        |                    |                  |
+
 
 
 
