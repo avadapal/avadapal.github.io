@@ -48,7 +48,7 @@ Course Schedule
 | 11 | 02.09.24  | IKNP Malicious             |                    |                  |
 | 12 | 04.09.24  | Blum's Coin Toss           |                    |                  |
 | 13 | 06.09.24  | Recap of OT                |                    |                  |
-| 14 | 07.09.24  | TBD                        |                    |                  |
+| 14 | 07.09.24  | Secret Sharing                        |                    |                  |
 
 
 
