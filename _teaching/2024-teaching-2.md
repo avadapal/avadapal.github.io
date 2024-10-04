@@ -55,9 +55,9 @@ Course Schedule
 |      |  22.09.24  | Midsem                        |                    |                  |
 | 18 | 23.09.24  | Distributed Point Functions                        |                    |                  |
 | 19 | 25.09.24  | Grotto Framework                        |                    |                  |
-| 20 | 27.09.24  | Grotto Frame Work                        |                    |                  |
+| 20 | 27.09.24  | Grotto Framework                        |                    |                  |
 | 21 | 30.09.24  | Prefix Parities                        |                    |                  |
-| 22 | 04.10.24  | Module 3 Recap + Quiz 3                        |                    |                  |
+| 22 | 04.10.24  | Share Conversion Recap + Quiz 3                        |                    |                  |
 
 
 ### References
