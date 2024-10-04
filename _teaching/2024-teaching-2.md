@@ -47,11 +47,17 @@ Course Schedule
 | 10 | 30.08.24  | IKNP                       |                    |                  |
 | 11 | 02.09.24  | IKNP Malicious             |                    |                  |
 | 12 | 04.09.24  | Blum's Coin Toss           |                    |                  |
-| 13 | 06.09.24  | Recap of OT                |                    |                  |
+| 13 | 06.09.24  | Recap of OT + Quiz 2                |                    |                  |
 | 14 | 07.09.24  | Secret Sharing                        |                    |                  |
-
-
-
+| 15 | 09.09.24  | ABY                        |                    |                  |
+| 16 | 11.09.24  | ABY                        |                    |                  |
+| 17 | 13.09.24  | ABY                        |                    |                  |
+|      |  22.09.24  | Midsem                        |                    |                  |
+| 18 | 23.09.24  | Distributed Point Functions                        |                    |                  |
+| 19 | 25.09.24  | Grotto Framework                        |                    |                  |
+| 20 | 27.09.24  | Grotto Frame Work                        |                    |                  |
+| 21 | 30.09.24  | Prefix Parities                        |                    |                  |
+| 22 | 04.10.24  | Module 3 Recap + Quiz 3                        |                    |                  |
 
 
 ### References
