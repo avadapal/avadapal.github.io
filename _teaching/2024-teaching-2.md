@@ -58,7 +58,19 @@ Course Schedule
 | 20 | 27.09.24  | Grotto Framework                        |                    |                  |
 | 21 | 30.09.24  | Prefix Parities                        |                    |                  |
 | 22 | 04.10.24  | Share Conversion Recap + Quiz 3                        |                    |                  |
-
+| 23 | 14.10.24  |  Anonymous Communication                        |                    |                  |
+ | 24 | 16.10.24  |  Anonymous Communication                        |                    |                  |
+ | 25 | 18.10.24  |  Anonymous Communication                        |                    |                  |
+| 26 | 21.10.24  |  Distributed ORAMs                        |                    |                  |
+| 28 | 23.10.24  |  Distributed ORAMs                        |                    |                  |
+| 29 | 28.10.24  |  Privacy Preserving ML                       |                    |                  |
+| 30 | 30.10.24  |  Privacy Preserving Auctions + Quiz 4                       |                    |                  |
+| 31 | 4.11.24    |  Blum's Coin Tossing                       |                    |                  |
+| 32 | 4.11.24    |  Proving Security in Malicious Model                      |                    |                  |
+| 33 | 6.11.24    |  Introduction to UC Framework.  l                      |                    |                  |
+| 34 | 8.11.24  | Zero Knowledge Proofs                       |                    |                  |
+| 35 | 11.11.24  | MPC in the Head + Quiz 5                       |                    |                  |
+| 36 | 13.11.24  |  Anonymous Communication Channels                       |                    |                  |
 
 ### References
 - [1] Resources for MPC: [here](https://u.cs.biu.ac.il/~lindell/MPC-resources.html), and [here](https://github.com/rdragos/awesome-mpc)
