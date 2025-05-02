@@ -25,8 +25,6 @@ author_profile: true
 * Ayush (2024 - 2025, Sem II)
 * Udbhav Singh Sikarwar (2024 - 2025, Sem II)
 
-
-
 ## Interns
 
 ### Past
