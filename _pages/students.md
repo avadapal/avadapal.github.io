@@ -13,9 +13,9 @@ author_profile: true
  
 ## Master Students
 
-* Lokesh Valeti
-* Deepen Shreshta
-* Aakashdeep Singh
+* Lokesh Valeti, MS(R)
+* Deepen Shreshta, M.Tech
+* Aakashdeep Singh, M.Tech
 
 
 ## UG Students (UGPs)
@@ -24,6 +24,11 @@ author_profile: true
 * Srishti Chandra (2024 - 2025, Sem II)
 * Ayush (2024 - 2025, Sem II)
 * Udbhav Singh Sikarwar (2024 - 2025, Sem II)
+* Rohan Ravi
+* Nipun Nohria
+* Kundan Kumar
+* Rajeev Kumar
+* Paras Sikarwar
 
 ## Interns
 
