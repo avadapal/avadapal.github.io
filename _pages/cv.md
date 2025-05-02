@@ -25,20 +25,7 @@ Work experience
    * University of Waterloo
    * Supervisor: Ian Goldberg
   
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
+ 
 Service and leadership
 ======
 * Artifact Reviewer, CCS 2024
