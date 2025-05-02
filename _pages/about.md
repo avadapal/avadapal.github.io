@@ -11,10 +11,6 @@ redirect_from:
 I am an Assistant Professor at the Computer Science and Engineering Department of IIT Kanpur. I did my Ph.D. at Indiana University Bloomington. After my Ph.D., I was a Postdoctoral Fellow at the University of Waterloo in the CrySP group for two years.
 
 
-Students
---------------------------------------------------------------------------------------
-I am currently seeking Masters and Ph.D. students to work in the area of Privacy Enhancing Technologies. 
-
 Research
 -------------------------------------------------------------------------------
 In my research, I build data-leak-proof systems. In creating such data-leak-proof systems, I develop cryptographic primitives and tools that have applications beyond the particular system. Some of my past and planned research is:
