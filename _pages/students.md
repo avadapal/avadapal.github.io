@@ -8,11 +8,17 @@ author_profile: true
 
 ## Ph.D Students
 
- ** Sonu Sharma
- ** Paritosh Shukla
+ * Sonu Sharma
+ * Paritosh Shukla
  
 ## Master Students
 
-** Lokesh Valeti
-** Deepen Shreshta
-** Aakashdeep Singh
+* Lokesh Valeti
+* Deepen Shreshta
+* Aakashdeep Singh
+
+
+## UG Students (UGPs)
+
+* Saagar
+* Srishti Chandra
