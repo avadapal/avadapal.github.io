@@ -20,15 +20,17 @@ author_profile: true
 
 ## UG Students (UGPs)
 
+### Past
 * Saagar KV (2024 - 2025, Sem II)
 * Srishti Chandra (2024 - 2025, Sem II)
 * Ayush (2024 - 2025, Sem II)
 * Udbhav Singh Sikarwar (2024 - 2025, Sem II)
-* Rohan Ravi
-* Nipun Nohria
-* Kundan Kumar
-* Rajeev Kumar
-* Paras Sikarwar
+* Rohan Ravi (2024 - 2025, Sem I)
+* Nipun Nohria (2024 - 2025, Sem I)
+* Kundan Kumar (2024 - 2025, Sem I)
+* Rohan Ravi (2023 - 2024, Sem II)
+* Rajeev Kumar (2023 - 2024, Sem II)
+* Paras Sikarwar (2023 - 2024, Sem II)
 
 ## Interns
 
