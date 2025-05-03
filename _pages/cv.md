@@ -30,6 +30,6 @@ Work experience
  
 Service and leadership
 ======
-* PC, CCS 2025, AsiaCCS 2025, PoPETs 2025
-* Artifact Reviewer, CCS 2024, WiSec 2023
-* Invited Reviewer,  ACM Digital Threats Research and Practice
+* PC Member: CCS 2025, AsiaCCS 2025, PoPETs 2025
+* Artifact Reviewer: CCS 2024, WiSec 2023
+* Invited Reviewer:  ACM Digital Threats Research and Practice
