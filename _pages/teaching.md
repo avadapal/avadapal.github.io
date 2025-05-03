@@ -22,5 +22,6 @@ author_profile: true
 
 ## Courses Taught outside IIT Kanpur
  
- ### University of Waterloo
+### University of Waterloo
+
 * Computer Security and Privacy
