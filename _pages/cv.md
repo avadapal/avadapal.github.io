@@ -14,7 +14,7 @@ Education
 
 * Ph.D, Computer Science at Indiana University, Bloomington, 2016-2021
 	* Supervisor: Ryan Henry
-	* Thesis Title: 
+	* Thesis Title: Distributed Point Functions and their Applications to Secure Multiparty Computation
 * M.Sc, Computer Science at Saarland University, 2012- 2015
 * B.Tech, Computer Science and Engineering at Amrita Vishwa Vidyapeetham, 2008-2012
 
