@@ -11,17 +11,19 @@ author_profile: true
 ### Past
 
 * CS425: Computer Networks
-	* 2024-2025: II Semester
+	*  II Semester of 2024-2025
 
 * CS714: Secure Computation
-	* 2024-2025: I Semester
+	*  I Semester of 2024-2025
 
 * CS670: Cryptographic Techniques for Privacy Preservation 
-	 * 2023-2024: II Semester
-	 * 2024: Summer 
+	 *  II Semester of 2023-2024
+	 *  Summer of 2024
 
 ## Courses Taught outside IIT Kanpur
  
 ### University of Waterloo
 
-* Computer Security and Privacy
+* CS458/658 Computer Security and Privacy
+	** Spring 2023
+	** Winter 2021
