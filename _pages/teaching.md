@@ -25,5 +25,5 @@ author_profile: true
 ### University of Waterloo
 
 * CS458/658 Computer Security and Privacy
-	** Spring 2023
-	** Winter 2021
+	* Spring 2023
+	* Winter 2021
