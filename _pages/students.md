@@ -44,7 +44,11 @@ author_profile: true
 
 ## Interns
 
+* Rohit Mahesh, VIT (SURGE)
+* Ritam Koley, NIT Durgapur
+* Arpit Mishra, LMNIT (Informal)
+
 ### Past
 
-* Shreyas Shivapuji
-* Kundan Kumar (SURGE)
+* Shreyas Shivapuji, NIT Warangal 
+* Kundan Kumar, IIT Kanpur (SURGE)
