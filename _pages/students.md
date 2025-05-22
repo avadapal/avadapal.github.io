@@ -10,8 +10,17 @@ author_profile: true
 
  * Sonu Sharma
  * Paritosh Shukla
+ * Rohit Kumar (co-supervised by Sayak Ray Chowdhury)
  
 ## Master Students
+
+* Rohan Ravi, BT-MT
+* Rajender, M.Tech
+* Yugul Kishor Pandey, M.Tech
+* Nayan Das, M.Tech
+* Ashvani Kumar Yadav, M.Tech
+
+### Past
 
 * Lokesh Valeti, MS(R)
 * Deepen Shreshta, M.Tech
