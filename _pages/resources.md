@@ -21,4 +21,4 @@ If you are new to this area and want to get some background on the topic of cryp
 ## Tutorials/Talks
  
 - [Private Information Retrieval](https://www.youtube.com/watch?v=XEYwMPwPxNI&t=474s) tutorial by Ryan Henry
-
+- [Introduction to Cryptography](https://www.youtube.com/watch?v=sb3Mt8nDwLc) by Johnathan Katz
