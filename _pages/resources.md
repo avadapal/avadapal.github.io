@@ -25,4 +25,4 @@ If you are new to this area and want to get some background on the topic of cryp
 
 ## Misc
 
-- 3blue1brown(https://www.youtube.com/@3blue1brown) Youtube Channel
+- [3blue1brown](https://www.youtube.com/@3blue1brown) Youtube Channel
