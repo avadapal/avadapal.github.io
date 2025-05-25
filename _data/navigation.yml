@@ -19,5 +19,8 @@ main:
   
   - title: "Students"
     url: /students/
+
+  - title: "Resources"
+    url: /resources/
  # - title: "Guide"
  #   url: /markdown/
