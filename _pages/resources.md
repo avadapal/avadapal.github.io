@@ -18,8 +18,7 @@ If you are new to this area and want to get some background on the topic of cryp
 
 - [Book](https://www.wisdom.weizmann.ac.il/~oded/foc.html) by Oded Goldreich
   
-  
- ## Tutorials/Talks
+## Tutorials/Talks
  
  - [Private Information Retrieval](https://www.youtube.com/watch?v=XEYwMPwPxNI&t=474s) tutorial by Ryan Henry
 
