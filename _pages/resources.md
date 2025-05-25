@@ -11,7 +11,7 @@ If you are new to this area and want to get some background on the topic of cryp
 
 - [CS798](https://crysp.uwaterloo.ca/courses/privcc/s24/schedule.html) by Ian Goldberg
 - [NPTEL](https://onlinecourses.nptel.ac.in/noc21_cs91/preview) course by Ashish Choudhury
-- [Introduction to Cryptography] (https://www.youtube.com/watch?v=2aHkqB2-46k&list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy) by Christof Paar
+- [Introduction to Cryptography](https://www.youtube.com/watch?v=2aHkqB2-46k&list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy) by Christof Paar
 
 
 ## Books
