@@ -23,6 +23,7 @@ If you are new to this area and want to get some background on the topic of cryp
  
 - [Private Information Retrieval](https://www.youtube.com/watch?v=XEYwMPwPxNI&t=474s) tutorial by Ryan Henry
 - [Introduction to Cryptography](https://www.youtube.com/watch?v=sb3Mt8nDwLc) by Johnathan Katz
+- [Garbled Circuits](https://www.youtube.com/watch?v=FTxh908u9y8&t=1690s) by Mike Rosulek
 
 ## Misc
 
